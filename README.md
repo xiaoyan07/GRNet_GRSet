@@ -10,6 +10,12 @@ and <a href="http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html">L
 [[`Paper`]()] 
 
 
+## Semi-supervised road extraction framework
+
+<div align="center">
+  <img src="./img/GRNet.png?raw=true">
+</div>
+
 ## The GRSet and the global-scale validation set
 
 <div align="center">
@@ -26,12 +32,6 @@ and <a href="http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html">L
 
 ## Downloads
 The GRSet and the global-scale validation set are released at [<b>Baidu Drive</b>](https://pan.baidu.com/s/1IyxNG8a76-i06DxhL4WtHw) Code:
-
-## Semi-supervised road extraction framework
-
-<div align="center">
-  <img src="./img/GRNet.png?raw=true">
-</div>
 
 
 ## Pre-trained model
