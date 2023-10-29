@@ -15,8 +15,8 @@ and <a href="http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html">L
 <div align="center">
   <img src="./img/GRSet.png?raw=true">
   <img src="./img/GRSet-details.png?raw=true">
-  <img src="./img/validation-set.png?raw=true">
-  <img src="./img/validation-set-details.png?raw=true">
+  <img src="./img/Valset.png?raw=true">
+  <img src="./img/ValSet-details.png?raw=true">
 </div>
 
 
