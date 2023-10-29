@@ -16,35 +16,43 @@ and <a href="http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html">L
   <img src="./img/GRNet.png?raw=true">
 </div>
 
-## The GRSet and the global-scale validation set
+## The GlobalRoadSet(GRSet)
 
 <div align="center">
   <img src="./img/GRSet.png?raw=true">
   <img src="./img/GRSet-details.png?raw=true">
+</div>
+
+## The global-scale validation set
+
+<div align="center">
   <img src="./img/Valset.png?raw=true">
   <img src="./img/ValSet-details.png?raw=true">
 </div>
-
 
 ## Highlights
 1. The GRSet contains 47210 samples from 121 cities across six continents: Europe, Africa, Asia, South America, Oceania, and North America. The area is 49503.27 km2.
 2. The global-scale validation set covers more than 30 cities,  across four continents: Europe, Africa, Asia, and North America. The area is 2836.38 km2.
 
 ## Downloads
-The GRSet and the global-scale validation set are released at [<b>Baidu Drive</b>](https://pan.baidu.com/s/1IyxNG8a76-i06DxhL4WtHw) Code:
+The GRSet and the global-scale validation set are released at [<b>Baidu Drive</b>](https://pan.baidu.com/s/1IyxNG8a76-i06DxhL4WtHw), Code:
 
 
 ## Pre-trained model
-The GRSet pre-trained LinkNet50 is released at [<b>Baidu Drive</b>](https://pan.baidu.com/s/1Dgkj3LYg4t4aJ7fflw5GcQ) Code: 
+The GRSet pre-trained LinkNet50 is released at [<b>Baidu Drive</b>](https://pan.baidu.com/s/1Dgkj3LYg4t4aJ7fflw5GcQ), Code: 
 
 Feel free to use these datasets and design your own models, and we are looking forward to your exciting results!
 
 ## Shared resources
 
 [<b>Massachusetts Road Dataset (2013)</b>](https://www.cs.toronto.edu/~vmnih/data/)   
+
 [<b>RoadTracer Dataset (2018)</b>](https://roadmaps.csail.mit.edu/roadtracer/)  
+
 [<b>SpaceNet Road Dataset (2018)</b>](https://spacenet.ai/spacenet-roads-dataset/)  
+
 [<b>DeepGlobe Road Dataset (2018)</b>](https://competitions.codalab.org/competitions/18467#participate-get_data)  
+
 [<b>LSRV: The Large-Scale Road Validation Dataset (2021)</b>](http://rsidea.whu.edu.cn/resource_LSRV_sharing.htm)
 
 If you are having difficulty processing this data, you can contact me at luxiaoyan@whu.edu.cn
