@@ -6,7 +6,7 @@
 and <a href="https://scholar.google.com.hk/citations?user=N0lkTdYAAAAJ&hl=zh-CN">Yu Su</a>
 
 
-[[`Paper`]()] 
+[[`Paper`](https://www.tandfonline.com/doi/full/10.1080/10095020.2024.2362760?src=)] 
 
 
 ## Semi-supervised road extraction framework
