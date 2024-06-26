@@ -3,8 +3,7 @@
 <h5 align="center"> <a href="https://scholar.google.com/citations?user=MDA37NMAAAAJ&hl=zh-CN">Xiaoyan Lu</a>, <a href="http://rsidea.whu.edu.cn/">Yanfei Zhong</a>,
 <a href="http://zhuozheng.top/">Zhuo Zheng</a>, <a href="https://junjuewang.top/">Junjue Wang</a>, 
 <a href="https://scholar.google.com.hk/citations?user=uW2WaBQAAAAJ&hl=zh-CN">Dingyuan Chen</a>, 
-<a href="https://scholar.google.com.hk/citations?user=N0lkTdYAAAAJ&hl=zh-CN">Yu Su</a> 
-and <a href="http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html">Liangpei Zhang</a></h5>
+and <a href="https://scholar.google.com.hk/citations?user=N0lkTdYAAAAJ&hl=zh-CN">Yu Su</a>
 
 
 [[`Paper`]()] 
@@ -34,12 +33,13 @@ and <a href="http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html">L
 1. The GRSet contains 47210 samples from 121 cities across six continents: Europe, Africa, Asia, South America, Oceania, and North America. The area is 49503.27 km2.
 2. The global-scale validation set covers more than 30 cities,  across four continents: Europe, Africa, Asia, and North America. The area is 2836.38 km2.
 
+
 ## Downloads
-The GRSet and the global-scale validation set are released at [<b>Baidu Drive</b>](https://pan.baidu.com/s/1IyxNG8a76-i06DxhL4WtHw), Code:
+The GRSet and the global-scale validation set are released at [<b>Baidu Drive</b>](https://pan.baidu.com/s/1IyxNG8a76-i06DxhL4WtHw), Code:Road
 
 
 ## Pre-trained model
-The GRSet pre-trained LinkNet50 is released at [<b>Baidu Drive</b>](https://pan.baidu.com/s/1Dgkj3LYg4t4aJ7fflw5GcQ), Code: 
+The GRSet pre-trained LinkNet50 is released at [<b>Baidu Drive</b>](https://pan.baidu.com/s/1Dgkj3LYg4t4aJ7fflw5GcQ), Code: Link
 
 Feel free to use these datasets and design your own models, and we are looking forward to your exciting results!
 
@@ -56,6 +56,20 @@ Feel free to use these datasets and design your own models, and we are looking f
 [<b>LSRV: The Large-Scale Road Validation Dataset (2021)</b>](http://rsidea.whu.edu.cn/resource_LSRV_sharing.htm)
 
 If you are having difficulty processing this data, you can contact me at luxiaoyan@whu.edu.cn
+
+## Citation
+If you use GRSet and global-scale validation set in your research, please cite the following paper.
+```text
+@article{lu2024global,
+  title={Global road extraction using a pseudo-label guided framework: from benchmark dataset to cross-region semi-supervised learning},
+  author={Xiaoyan Lu, Yanfei Zhong, Zhuo Zheng, Junjue Wang, Dingyuan Chen and Yu Su}
+  journal={Geo-spatial Information Science},
+  volume={},
+  pages={},
+  year={2024},
+  publisher={Taylor & Francis Group}
+}
+```
 
 ## License
 The owners of the data and of the copyright on the data are [RSIDEA](http://rsidea.whu.edu.cn/), Wuhan University.
