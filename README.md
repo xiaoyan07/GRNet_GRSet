@@ -64,10 +64,9 @@ If you use GRSet and global-scale validation set in your research, please cite t
   title={Global road extraction using a pseudo-label guided framework: from benchmark dataset to cross-region semi-supervised learning},
   author={Xiaoyan Lu, Yanfei Zhong, Zhuo Zheng, Junjue Wang, Dingyuan Chen and Yu Su}
   journal={Geo-spatial Information Science},
-  volume={},
-  pages={},
+  pages={1-19},
   year={2024},
-  publisher={Taylor & Francis Group}
+  publisher={Taylor & Francis}
 }
 ```
 
