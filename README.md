@@ -35,7 +35,9 @@ and <a href="https://scholar.google.com.hk/citations?user=N0lkTdYAAAAJ&hl=zh-CN"
 
 
 ## Downloads
-The GRSet and the global-scale validation set are released at [<b>Baidu Drive</b>](https://pan.baidu.com/s/1IyxNG8a76-i06DxhL4WtHw), Code:Road
+
+Please fill in a simple form to register information before downloading so that we can know the usage of the data set.
+The GRSet and the global-scale validation set can be downloaded from [<b>Baidu Drive</b>](https://a13hcjwkq4e7m5aw.mikecrm.com/ZpCb18L)
 
 
 ## Pre-trained model
